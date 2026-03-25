@@ -2,10 +2,14 @@
 
 **文骐致远智能助手** - 成为世界最好的量化投资 AI 平台
 
-[![Release](https://img.shields.io/github/v/release/136550849/WenqiZhiyuan-Agent)](https://github.com/136550849/WenqiZhiyuan-Agent/releases)
+[![Release](https://img.shields.io/github/v/release/136550849/WenqiZhiyuan-Agent?label=Release&color=success)](https://github.com/136550849/WenqiZhiyuan-Agent/releases)
+[![Status](https://img.shields.io/badge/Status-✅已发布-success)](https://github.com/136550849/WenqiZhiyuan-Agent)
 [![License](https://img.shields.io/github/license/136550849/WenqiZhiyuan-Agent)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/136550849/WenqiZhiyuan-Agent)](https://github.com/136550849/WenqiZhiyuan-Agent/stargazers)
 [![Forks](https://img.shields.io/github/forks/136550849/WenqiZhiyuan-Agent)](https://github.com/136550849/WenqiZhiyuan-Agent/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/136550849/WenqiZhiyuan-Agent)](https://github.com/136550849/WenqiZhiyuan-Agent/commits/master)
+
+**最新版本**: v1.0.0 (2026-03-25) | **状态**: ✅ 已正式发布
 
 ---
 
