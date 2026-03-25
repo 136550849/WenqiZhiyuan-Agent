@@ -1,0 +1,12 @@
+# 电子书库模块依赖
+
+# 元数据提取
+ebooklib>=0.18
+beautifulsoup4>=4.12
+
+# PDF 处理
+PyMuPDF>=1.23
+
+# 可选：Calibre 集成（需要手动安装）
+# 下载地址：https://calibre-ebook.com/
+# 安装后确保 ebook-meta 命令可用
