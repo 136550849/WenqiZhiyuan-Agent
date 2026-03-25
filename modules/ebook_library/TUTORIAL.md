@@ -346,7 +346,7 @@ print(f"总计：{len(all_books)} 本书")
 
 ### 步骤 1: 准备 Bitable
 
-1. 打开飞书 Bitable：https://my.feishu.cn/base/BVxPbe1AnayZEBswgdxcN3yqnrb
+1. 打开飞书 Bitable：https://my.feishu.cn/base/YOUR_BITABLE_ID
 2. 创建新表格或选择现有表格
 3. 确保字段匹配：
    - 书名（文本）
@@ -378,9 +378,9 @@ with open('output/bitable_import.json', 'r', encoding='utf-8') as f:
     records = json.load(f)
 
 # Bitable API 配置
-app_token = 'BVxPbe1AnayZEBswgdxcN3yqnrb'
-table_id = 'tblXXX'
-api_token = 'YOUR_API_TOKEN'
+app_token = 'YOUR_BITABLE_APP_TOKEN'  # 替换为你的 Bitable App Token
+table_id = 'YOUR_TABLE_ID'            # 替换为你的表格 ID
+api_token = 'YOUR_API_TOKEN'          # 替换为你的飞书 API Token
 
 # 批量创建记录（每次最多 500 条）
 headers = {

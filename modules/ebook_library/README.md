@@ -600,6 +600,33 @@ if __name__ == '__main__':
 
 ---
 
+## 🔐 安全提示
+
+**重要**: 请勿将敏感信息提交到 Git 仓库！
+
+### 敏感文件（已加入 .gitignore）
+- `.env` - 环境配置（API Token、密码等）
+- `models.json` - 模型配置（API Key）
+- `*.local` - 本地配置文件
+- `logs/` - 日志文件
+
+### 配置示例
+```bash
+# 复制示例配置
+cp .env.example .env
+
+# 编辑 .env 填入实际值
+# 请勿将 .env 提交到 Git！
+```
+
+### 已保护的内容
+- ✅ Tushare API Token
+- ✅ 飞书 API Token
+- ✅ 数据库连接字符串
+- ✅ 本地路径配置
+
+---
+
 ## 📋 使用流程
 
 ### 1. 扫描书库
